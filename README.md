@@ -19,48 +19,48 @@ Through the analysis, we discovered that `Meal Type` and `Time of Day` are somew
 ### 1. Relationship Between Average Duration and Average Rating for Different Dishes
 We found that the dish with the longest average cooking duration is Grilled Chicken, which also received the highest rating. Conversely, the dish with the shortest average cooking duration is Oatmeal, which received the lowest rating.
 
-![Relationship Between Average Duration and Average Rating for Different Dishes](path_to_image)
+![Avg duration and Avg rating for dish](https://github.com/user-attachments/assets/3883228d-66da-4ee4-b714-4b85bbe5f89e)
 
 ### 2. Most Popular Dishes
 The most popular dishes were Grilled Chicken and Spaghetti, each ordered 4 times, while the least popular dish was Oatmeal.
 
-![Most Popular Dishes](path_to_image)
+![most popular dish](https://github.com/user-attachments/assets/a853fc8b-2e9f-448b-a989-a957091c58d0)
 
 ### 3. Most Common Dishes for Each Meal Type
 - Dinner: Grilled Chicken and Spaghetti
 - Lunch: Caesar Salad
 - Breakfast: Pancakes
 
-![Most Common Dishes for Each Meal Type](path_to_image)
+![comman dishes for each meal](https://github.com/user-attachments/assets/c69e26d6-d4d1-4765-b23b-cba86fcf4624)
 
 ### 4. Popular Times for Orders
 Most orders were placed at night, and the least common time was the morning.
 
-![Popular Times for Orders](path_to_image)
+![popular time for the order](https://github.com/user-attachments/assets/b4d86d2e-acab-474b-afc9-472b261e538b)
 
 ### 5. Favorite Times or Type of Orders
 Dinner was the most favorite time for orders, while breakfast was the least favorite.
 
-![Favorite Times or Type of Orders](path_to_image)
+![favorite time for orders](https://github.com/user-attachments/assets/ea9ae5bf-f7a5-479f-9d9e-e6956e08257d)
 
 ### 6. Average Amount Spent on Each Dish
 The most costly dish was Spaghetti, while the least costly was Oatmeal.
 
-![Average Amount Spent on Each Dish](path_to_image)
+![avg amount spend](https://github.com/user-attachments/assets/940f6abd-bfe6-4e0d-9797-53302ed02087)
 
 ### 7. Order Status Distribution
 - 87.5% of orders were completed.
 - 18.5% of orders were incomplete.
 - 2 orders were canceled.
 
-![Order Status Distribution](path_to_image)
+![order status](https://github.com/user-attachments/assets/309379af-debe-4426-85df-ef7712e16ccd)
 
 ### 8. Age Distribution by Meal Type
 - Age group 31-36 prefers breakfast.
 - Age group 30-35 prefers lunch.
 - Age group 28-35 prefers dinner.
 
-![Age Distribution by Meal Type](path_to_image)
+![boxlpot 1 age and mead type](https://github.com/user-attachments/assets/16e9c42d-c5d4-42cc-b4f0-c3d529962b28)
 
 ### 9. Age Distribution by Dish
 - Age group 28-36 prefers Spaghetti.
@@ -70,19 +70,17 @@ The most costly dish was Spaghetti, while the least costly was Oatmeal.
 - Age group 34-39 prefers Veg Burger.
 - Age group 35 prefers Oatmeal.
 
-![Age Distribution by Dish](path_to_image)
+![boxplot 2 age and dishes](https://github.com/user-attachments/assets/2f0f0a54-183d-4e22-a8fe-9a34dff626bb)
 
 ### 10. Number of Orders by Location
 - New York, Los Angeles, and Chicago had the highest number of orders (3 each).
 - Austin, Boston, and Miami had the lowest number of orders (1 each).
 
-![Number of Orders by Location](path_to_image)
+![location and no  orders](https://github.com/user-attachments/assets/706eeccd-6185-4e62-8392-0da2c3e6aa4b)
 
 ### 11. Correlation Analysis
 - Correlation coefficient between Session Rating and Order Rating: 0.6126840351430513
 - Correlation coefficient between Cooking Session Duration and Session Rating: 0.6894845315580719
-
-![Correlation Analysis](path_to_image)
 
 ### 12. Daily Order Trend
 On average, there were 2 orders per day.
